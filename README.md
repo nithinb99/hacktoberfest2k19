@@ -1,8 +1,8 @@
-## Official repo for ACM HacktoberFest 2k19, PESUECC
+## Official repo for ACM HacktoberFest 2K21- PESUECC
 
 This repo contains multiple folders, under which you will find issues and bugs. You can start working on any of the projects and create PR's for them.
 
-[HacktoberFest '19 by DigitalOcean][hck]
+[HacktoberFest '21 by DigitalOcean][hck]
 Links to other issues tagged [#hacktoberfest][lk] which you can work on
 
 # Important information
@@ -48,3 +48,4 @@ As this repo will be forked by multiple people, make sure to navigate to the "Is
 [lk]:https://github.com/search?l=&o=desc&q=label%3Ahacktoberfest+state%3Aopen&s=updated&type=Issues
 [git]:http://guides.beanstalkapp.com/version-control/common-git-commands.html
 [pr]:https://help.github.com/en/articles/creating-a-pull-request
+#HAPPY CELEBRATION!
